@@ -23,8 +23,6 @@
 |⚛️ 나만의 UI Library 만들기|[Link](https://github.com/woowacourse/javascript-own-ui-library)|[step1](https://github.com/woowacourse/javascript-own-ui-library/pull/7) [step2](https://github.com/woowacourse/javascript-own-ui-library/pull/23)|-|
 |✍️ 내가 꿈꾸는 프로그래머로서의 삶	|[Link](https://github.com/woowacourse/woowa-writing-3)|[Link](https://github.com/woowacourse/woowa-writing-3/blob/c10e2e2927c872ea9b2a71bacbbc5587348cc5f0/lv4-writing.md)|-|
 
----
-
 ## Lv3
 
 ### 🗓 기간
@@ -38,8 +36,6 @@
 |---|---|---------|---|
 |🧸 놀토: 놀러오세요 토이프로젝트|[Link](https://github.com/woowacourse-teams/2021-nolto)|-|-|
 |✍️ 팀 프로젝트가 나에게 남긴 것	|[Link](https://github.com/woowacourse/woowa-writing-3)|[Link](https://github.com/woowacourse/woowa-writing-3/blob/4f6ed9c5253090a7836190badb430b7db57c48fc/lv3-writing.md)|-|
-
----
 
 ## Lv2
 ### 🗓 기간
@@ -57,9 +53,6 @@
 |🛒 장바구니|[Link](https://github.com/woowacourse/react-shopping-cart)|[step1](https://github.com/woowacourse/react-shopping-cart/pull/21) [step2](https://github.com/woowacourse/react-shopping-cart/pull/42)|[Link](https://zigsong.github.io/2021/05/19/wtc-lv2-shoppingcart-log/)|
 |🚇 지하철 노선도|[Link](https://github.com/woowacourse/react-subway-map)|[step1](https://github.com/woowacourse/react-subway-map/pull/13) [step2](https://github.com/woowacourse/react-subway-map/pull/31)|[Link](https://zigsong.github.io/2021/06/03/wtc-lv2-subwaymap-log/)|
 |✍️ 우테코에서 찾은 나만의 공부법|[Link](https://github.com/woowacourse/woowa-writing-3)|[Link](https://github.com/woowacourse/woowa-writing-3/blob/6f0d9f05244abd366cf2e085019a56cd2cfe8488/lv2-writing.md)|-|
-
-
----
 
 ## Lv1
 
